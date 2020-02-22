@@ -146,7 +146,7 @@ namespace ParseApp
         {
             string url = _url;
 
-            WebProxy proxy = new WebProxy("srv-squid.gnivc.msk", 8080);     /* Настройки прокси сервера */
+            WebProxy proxy = new WebProxy("proxy.server.com", 8080);     /* Настройки прокси сервера */
             proxy.Credentials = CredentialCache.DefaultCredentials;
 
             WebClient client = new WebClient();
