@@ -1,0 +1,11 @@
+C:\Users\vargas-kampos\source\repos\ParseApp\ParseApp\bin\Debug\netcoreapp2.2\ParseApp.deps.json
+C:\Users\vargas-kampos\source\repos\ParseApp\ParseApp\bin\Debug\netcoreapp2.2\ParseApp.runtimeconfig.json
+C:\Users\vargas-kampos\source\repos\ParseApp\ParseApp\bin\Debug\netcoreapp2.2\ParseApp.runtimeconfig.dev.json
+C:\Users\vargas-kampos\source\repos\ParseApp\ParseApp\bin\Debug\netcoreapp2.2\ParseApp.dll
+C:\Users\vargas-kampos\source\repos\ParseApp\ParseApp\bin\Debug\netcoreapp2.2\ParseApp.pdb
+C:\Users\vargas-kampos\source\repos\ParseApp\ParseApp\obj\Debug\netcoreapp2.2\ParseApp.csprojAssemblyReference.cache
+C:\Users\vargas-kampos\source\repos\ParseApp\ParseApp\obj\Debug\netcoreapp2.2\ParseApp.csproj.CoreCompileInputs.cache
+C:\Users\vargas-kampos\source\repos\ParseApp\ParseApp\obj\Debug\netcoreapp2.2\ParseApp.AssemblyInfoInputs.cache
+C:\Users\vargas-kampos\source\repos\ParseApp\ParseApp\obj\Debug\netcoreapp2.2\ParseApp.AssemblyInfo.cs
+C:\Users\vargas-kampos\source\repos\ParseApp\ParseApp\obj\Debug\netcoreapp2.2\ParseApp.dll
+C:\Users\vargas-kampos\source\repos\ParseApp\ParseApp\obj\Debug\netcoreapp2.2\ParseApp.pdb
